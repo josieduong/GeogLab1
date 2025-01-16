@@ -20,11 +20,11 @@ Kirby is a small, round creature with a pink body, stubby arms, and large expres
 The Kirby series encompasses numerous titles across various Nintendo consoles, ranging from platformers to spin-offs featuring different genres. Below are some of the notable entries in the series:
 
 ### **Main Series**
-1. **[Kirby's Dream Land (1992, Game Boy)]**(https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land): The debut title where Kirby sets out to recover stolen food from King Dedede.
-2. **[Kirby's Adventure (1993, NES)]**(https://en.wikipedia.org/wiki/Kirby%27s_Adventure): Introduced Kirby's copy abilities, expanding gameplay possibilities.
-3. **[Kirby Super Star (1996, SNES)]**(https://en.wikipedia.org/wiki/Kirby_Super_Star): A collection of games offering varied adventures and cooperative gameplay.
-4. **[Kirby's Epic Yarn (2010, Wii)]**(https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn): A stylistic departure with a yarn-based aesthetic.
-5. **[Kirby and the Forgotten Land (2022, Nintendo Switch)]**(https://en.wikipedia.org/wiki/Kirby_and_the_Forgotten_Land): A 3D platformer featuring expansive levels and new mechanics.
+1. **[Kirby's Dream Land (1992, Game Boy)](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land)**: The debut title where Kirby sets out to recover stolen food from King Dedede.
+2. **[Kirby's Adventure (1993, NES)](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)**: Introduced Kirby's copy abilities, expanding gameplay possibilities.
+3. **[Kirby Super Star (1996, SNES)](https://en.wikipedia.org/wiki/Kirby_Super_Star)**: A collection of games offering varied adventures and cooperative gameplay.
+4. **[Kirby's Epic Yarn (2010, Wii)](https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn)**: A stylistic departure with a yarn-based aesthetic.
+5. **[Kirby and the Forgotten Land (2022, Nintendo Switch)](https://en.wikipedia.org/wiki/Kirby_and_the_Forgotten_Land)**: A 3D platformer featuring expansive levels and new mechanics.
 
 ### ***See also***
 - [Characters of the Kirby series](https://en.wikipedia.org/wiki/Characters_of_the_Kirby_series)

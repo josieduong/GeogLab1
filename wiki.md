@@ -1,4 +1,4 @@
-# **Kirby** (Character)
+# **Kirby** (*Character*)
 ![Kirby](https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19262002/open_graph.jpg?quality=90&strip=all&crop=7.4375,0,85.125,100)
 
 Kirby, a charming and versatile character from the Kirby video game series, stands as a hallmark of creativity and accessibility in gaming. Created by HAL Laboratory and launched by Nintendo in 1992, Kirby's adventures have captivated audiences worldwide. Known for his distinctive inhalation and copy abilities, Kirby seamlessly combines simplicity with depth, making his games enjoyable for players of all skill levels. Beyond the mainline series, Kirby has explored various genres, from racing and puzzle games to epic yarn-based adventures. His enduring popularity is a testament to Nintendo’s innovation and Kirby's universal appeal.
@@ -16,7 +16,7 @@ Kirby is a small, round creature with a pink body, stubby arms, and large expres
 - **Signature Ability**: Inhalation and copy abilities.
 - **Personality**: Cheerful, brave, and determined.
 
-### **Game Series**
+## **Game Series**
 ![Game](https://assets.nuuvem.com/image/upload/v1/products/5e5ede31c883e60be6f353f9/sharing_images/gvf3uwle3onuvu5lqirg.jpg)\
 The Kirby series encompasses numerous titles across various Nintendo consoles, ranging from platformers to spin-offs featuring different genres. Below are some of the notable entries in the series:
 
